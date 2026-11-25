@@ -6,7 +6,7 @@
 
 | Item | Details |
 |---|---|
-| Course | Software Engineering |
+| Course | Software Engineering and Project Management |
 | Topic | Software Design |
 | Assignment | Developing Questions |
 | Total Marks | 40 |
@@ -170,5 +170,6 @@ The question paper carries 40 marks and is designed for a one-hour examination.
 **Assignment Status: Completed**
 
 **Course:** Software Engineering and Project Management 
+
 **Topic:** Software Design  
 **Assessment:** OBE-Based Question Paper
