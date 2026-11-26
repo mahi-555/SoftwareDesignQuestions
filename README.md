@@ -24,8 +24,6 @@ Each question is mapped to a Course Outcome (CO) to ensure alignment between cou
 
 ## 2. Proposed Course Outcomes (COs)
 
-*Note: The course teacher did not provide the official Course Outcomes. Therefore, the following five COs are proposed for this assignment based on the provided Software Design materials. They should not be considered officially approved course outcomes.*
-
 | CO | Proposed Course Outcome |
 |---|---|
 | CO1 | Explain the fundamental concepts and principles of software design. |
@@ -52,8 +50,6 @@ The assessment is designed with reference to the knowledge and understanding asp
 - Questions assess the recall of relevant software design terminology and concepts.
 - Questions assess students' understanding of software design principles, architectural styles, design patterns, and software metrics.
 - Each question is mapped to a proposed Course Outcome.
-
-**Note:** The exact BNQF qualification level and official programme descriptors have not been provided. Therefore, no specific BNQF level is claimed in this assignment. The final level alignment should be confirmed using the approved programme documentation.
 
 ---
 
