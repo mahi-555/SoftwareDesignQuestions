@@ -1,175 +1,182 @@
+# Software Design: Developing Questions
 
-# Software Engineering and Project Management
-## Assignment: Software Design – Developing Questions
-
-### 1. Assignment Information
+## Assignment Information
 
 | Item | Details |
 |---|---|
-| Course | Software Engineering and Project Management |
-| Topic | Software Design |
-| Assignment | Developing Questions |
+| Course Title | Software Engineering and Project Management |
+| Assignment Title | Software Design: Developing Questions |
+| Assessment Method | Outcome-Based Education (OBE) |
 | Total Marks | 40 |
-| Examination Duration | 1 Hour |
-| Education Approach | Outcome-Based Education (OBE) |
-| Assessment Framework | Bloom's Taxonomy |
-| Qualification Framework | BNQF |
-| Learning Domain | Cognitive Domain |
-
-### 2. Objective
-
-The objective of this assignment is to develop an OBE-based question paper for the Software Design topic of the Software Engineering course.
-
-The question paper is designed according to Bloom's Taxonomy, focusing on two cognitive levels: Remember (K1) and Understand (K2).
-
-Each question is mapped to the relevant Course Outcome (CO) to ensure alignment between course learning outcomes and assessment.
-
-### 3. Proposed Course Outcomes (COs)
-
-The following five COs are proposed based on the uploaded Software Design lecture materials.
-
-| CO | Course Outcome |
-|---|---|
-| CO1 | Define and explain the fundamental concepts and principles of software design. |
-| CO2 | Explain coupling, cohesion, and their importance in software design. |
-| CO3 | Describe software architecture and different architectural styles. |
-| CO4 | Explain design patterns and classify Gang of Four (GoF) patterns. |
-| CO5 | Explain software design metrics used to assess software quality and complexity. |
-
-### 4. Bloom's Taxonomy
-
-Bloom's Taxonomy is used to classify learning objectives into different cognitive levels.
-
-This assessment focuses on:
-
-| Code | Level | Description | Action Verbs |
-|---|---|---|---|
-| K1 | Remember | Recall facts, definitions, and basic concepts. | Define, Identify, List, Name |
-| K2 | Understand | Explain concepts and demonstrate conceptual understanding. | Explain, Describe, Distinguish, Summarize |
-
-**Selected Domain:** Cognitive Domain.
-
-### 5. BNQF Alignment
-
-The assessment is designed with reference to the knowledge and cognitive understanding expected in undergraduate-level learning.
-
-The questions assess students' ability to:
-
-- Recall fundamental software design concepts.
-- Explain software design principles.
-- Describe software architectural styles.
-- Understand and classify design patterns.
-- Explain software design quality metrics.
-
-The final BNQF level and descriptor mapping should be confirmed against the university's approved programme-level BNQF alignment.
+| Time | 1 Hour |
+| Domain | Cognitive Domain |
+| Knowledge Level | Knowledge and Understanding |
+| Bloom's Taxonomy | K1 (Remembering) and K2 (Understanding) |
+| Reference Material | `SoftEng-Design.pdf` |
 
 ---
 
-# 6. OBE-Based Question Paper
+## 1. Assignment Objective
 
-**Course:** Software Engineering  
+The objective of this assignment is to develop an OBE-based question paper on Software Design. The questions are designed according to Bloom's Taxonomy, focusing on the Knowledge and Understanding levels of the Cognitive Domain.
+
+Each question is mapped to a Course Outcome (CO) to ensure alignment between course learning outcomes and assessment.
+
+## 2. Proposed Course Outcomes (COs)
+
+*Note: The course teacher did not provide the official Course Outcomes. Therefore, the following five COs are proposed for this assignment based on the provided Software Design materials. They should not be considered officially approved course outcomes.*
+
+| CO | Proposed Course Outcome |
+|---|---|
+| CO1 | Explain the fundamental concepts and principles of software design. |
+| CO2 | Explain the concepts of coupling and cohesion and their importance in software design. |
+| CO3 | Describe software architecture and different architectural styles. |
+| CO4 | Explain the concept and categories of Gang of Four (GoF) design patterns. |
+| CO5 | Explain software design metrics used to assess coupling, cohesion, class complexity, and reuse. |
+
+## 3. Bloom's Taxonomy Mapping
+
+The questions are designed using two levels of the Cognitive Domain:
+
+| Level | Category | Description |
+|---|---|---|
+| K1 | Remember | Recall facts, definitions, terms, and basic concepts. |
+| K2 | Understand | Explain concepts, describe relationships, and interpret information. |
+
+**Cognitive Domain:** Knowledge and Understanding.
+
+## 4. BNQF Alignment
+
+The assessment is designed with reference to the knowledge and understanding aspects of the cognitive domain, consistent with an outcome-based assessment approach.
+
+- Questions assess the recall of relevant software design terminology and concepts.
+- Questions assess students' understanding of software design principles, architectural styles, design patterns, and software metrics.
+- Each question is mapped to a proposed Course Outcome.
+
+**Note:** The exact BNQF qualification level and official programme descriptors have not been provided. Therefore, no specific BNQF level is claimed in this assignment. The final level alignment should be confirmed using the approved programme documentation.
+
+---
+
+# 5. Question Paper
+
+**Course Title:** Software Engineering and Project Management  
 **Topic:** Software Design  
 **Full Marks:** 40  
 **Time:** 1 Hour
 
-### Section A: Knowledge-Based Questions
-**Answer all questions. (10 × 1 = 10 Marks)**
+### Instructions
 
-| Q.No. | Questions | Marks | Bloom's Level | CO |
+1. Answer all questions.
+2. The question paper contains two sections.
+3. Marks and corresponding Course Outcomes are indicated beside each question.
+
+## Section A: Short Questions
+
+**Answer all questions.**  
+**10 × 1 = 10 Marks**
+
+| Q. No. | Questions | Marks | Bloom's Level | CO |
 |---|---|---:|---|---|
 | 1 | What is software design? | 1 | K1 | CO1 |
 | 2 | Define coupling. | 1 | K1 | CO2 |
 | 3 | Define cohesion. | 1 | K1 | CO2 |
 | 4 | What is software architecture? | 1 | K1 | CO3 |
-| 5 | What is a layered architecture? | 1 | K1 | CO3 |
+| 5 | What is a layered architectural style? | 1 | K1 | CO3 |
 | 6 | What is a design pattern? | 1 | K1 | CO4 |
 | 7 | Name the three categories of GoF design patterns. | 1 | K1 | CO4 |
 | 8 | What does CBO stand for? | 1 | K1 | CO5 |
 | 9 | What does LCOM stand for? | 1 | K1 | CO5 |
 | 10 | What does WMC stand for? | 1 | K1 | CO5 |
+| | **Total** | **10** | | |
 
-### Section B: Understanding-Based Questions
-**Answer all questions. (6 × 5 = 30 Marks)**
+## Section B: Descriptive Questions
 
-| Q.No. | Questions | Marks | Bloom's Level | CO |
+**Answer all questions.**  
+**6 × 5 = 30 Marks**
+
+| Q. No. | Questions | Marks | Bloom's Level | CO |
 |---|---|---:|---|---|
-| 11 | Explain software design and distinguish between architectural design and detailed design. | 5 | K2 | CO1 |
-| 12 | Explain the concepts of coupling and cohesion. Why are low coupling and high cohesion desirable in software design? | 5 | K2 | CO2 |
+| 11 | Explain software design. Distinguish between architectural design and detailed design. | 5 | K2 | CO1 |
+| 12 | Explain coupling and cohesion. Why are low coupling and high cohesion desirable in software design? | 5 | K2 | CO2 |
 | 13 | Describe the layered, event-based, and blackboard/repository architectural styles. | 5 | K2 | CO3 |
 | 14 | Explain the three categories of GoF design patterns with suitable examples. | 5 | K2 | CO4 |
 | 15 | Explain the purpose of CBO, LCOM, and WMC metrics in software design. | 5 | K2 | CO5 |
-| 16 | Describe RFC, DIT, and NOC metrics and explain their roles in assessing software design complexity and reuse. | 5 | K2 | CO5 |
+| 16 | Explain RFC, DIT, and NOC metrics and describe their roles in assessing class complexity and reuse. | 5 | K2 | CO5 |
+| | **Total** | **30** | | |
 
-**Total Marks = 10 + 30 = 40**
+**Grand Total: 40 Marks**
 
 ---
 
-### 7. Course Outcome (CO) Mapping
+## 6. Course Outcome (CO) Mapping
 
-Each question is mapped to a specific Course Outcome.
+The following table shows the mapping of all questions with the proposed Course Outcomes.
 
-| CO | Mapped Questions | Marks Distribution | Total |
-|---|---|---|---:|
-| CO1 | Q1, Q11 | 1 + 5 | 6 |
-| CO2 | Q2, Q3, Q12 | 1 + 1 + 5 | 7 |
-| CO3 | Q4, Q5, Q13 | 1 + 1 + 5 | 7 |
-| CO4 | Q6, Q7, Q14 | 1 + 1 + 5 | 7 |
-| CO5 | Q8, Q9, Q10, Q15, Q16 | 1 + 1 + 1 + 5 + 5 | 13 |
-| **Total** | **Q1–Q16** | | **40** |
+| CO | Mapped Questions | Marks Distribution |
+|---|---|---:|
+| CO1 | Q1, Q11 | 1 + 5 = 6 |
+| CO2 | Q2, Q3, Q12 | 1 + 1 + 5 = 7 |
+| CO3 | Q4, Q5, Q13 | 1 + 1 + 5 = 7 |
+| CO4 | Q6, Q7, Q14 | 1 + 1 + 5 = 7 |
+| CO5 | Q8, Q9, Q10, Q15, Q16 | 1 + 1 + 1 + 5 + 5 = 13 |
+| | **Total** | **40** |
 
-### 8. Bloom's Taxonomy Marks Distribution
+### CO-wise Marks Distribution
 
-| Cognitive Level | Questions | Marks | Percentage |
-|---|---|---:|---:|
-| K1 – Remember | Q1–Q10 | 10 | 25% |
-| K2 – Understand | Q11–Q16 | 30 | 75% |
-| **Total** | **16 Questions** | **40** | **100%** |
+| CO | Marks | Percentage |
+|---|---:|---:|
+| CO1 | 6 | 15% |
+| CO2 | 7 | 17.5% |
+| CO3 | 7 | 17.5% |
+| CO4 | 7 | 17.5% |
+| CO5 | 13 | 32.5% |
+| **Total** | **40** | **100%** |
 
-### 9. OBE Assessment Alignment
+## 7. Bloom's Taxonomy Marks Distribution
 
-| Assessment Component | Learning Outcome |
-|---|---|
-| Section A | Evaluates students' knowledge and recall of basic concepts. |
-| Section B | Evaluates students' conceptual understanding and explanation skills. |
-| CO Mapping | Ensures every question assesses a specific Course Outcome. |
-| Bloom's Taxonomy | Ensures questions are designed according to the selected cognitive levels. |
-| BNQF Alignment | Connects assessment with undergraduate knowledge and cognitive skills. |
+| Bloom's Level | Number of Questions | Marks | Percentage |
+|---|---:|---:|---:|
+| K1 – Remember | 10 | 10 | 25% |
+| K2 – Understand | 6 | 30 | 75% |
+| **Total** | **16** | **40** | **100%** |
 
-### 10. Reference Materials
+## 8. OBE Assessment Alignment
 
-**Primary Reference:** Uploaded lecture slides – SoftEng-Design.pdf.
+The question paper follows the Outcome-Based Education approach through the following features:
 
-Topics covered in the question paper:
+1. **Outcome-based assessment:** Every question is mapped to a proposed Course Outcome.
+2. **Bloom's Taxonomy:** Questions are designed at K1 and K2 cognitive levels.
+3. **Knowledge and Understanding:** Students are assessed on their ability to recall and explain software design concepts.
+4. **Measurable assessment:** Marks are distributed across five proposed Course Outcomes.
+5. **Alignment:** The questions are based on the learning topics covered in the provided Software Design materials.
 
-1. Software Design Fundamentals
-2. Coupling and Cohesion
-3. Software Architecture
-4. Architectural Styles:
-   - Layered Architecture
-   - Event-Based Architecture
-   - Blackboard/Repository
-5. Gang of Four (GoF) Design Patterns
-6. Software Design Metrics:
-   - Coupling Between Object Classes (CBO)
-   - Lack of Cohesion of Methods (LCOM)
-   - Weighted Methods per Class (WMC)
-   - Response for a Class (RFC)
-   - Depth of Inheritance Tree (DIT)
-   - Number of Children (NOC)
+## 9. Reference Materials
 
-### 11. Conclusion
+The questions are developed from the provided `SoftEng-Design.pdf`, covering the following topics:
 
-This OBE-based question paper has been designed to assess students' knowledge and understanding of Software Design concepts.
+- Design Fundamentals
+- Modularity and Decomposition
+- Coupling and Cohesion
+- Software Architecture
+- Architectural Styles
+- Gang of Four (GoF) Design Patterns
+- User Interface Design Principles
+- Software Design Quality
+- CK Software Design Metrics:
+  - Coupling Between Object Classes (CBO)
+  - Lack of Cohesion of Methods (LCOM)
+  - Weighted Methods per Class (WMC)
+  - Response for a Class (RFC)
+  - Depth of Inheritance Tree (DIT)
+  - Number of Children (NOC)
 
-The assessment follows Bloom's Taxonomy at the Remember (K1) and Understand (K2) levels within the Cognitive Domain.
+## 10. Conclusion
 
-All 16 questions are mapped to five proposed Course Outcomes, ensuring alignment between learning objectives and assessment.
+This assignment presents an OBE-based question paper on Software Design with a total of 40 marks and a duration of one hour. The questions cover the Knowledge and Understanding levels of the Cognitive Domain according to Bloom's Taxonomy. Each question is mapped to one of the five proposed Course Outcomes to maintain clear assessment alignment.
 
-The question paper carries 40 marks and is designed for a one-hour examination.
+---
 
-**Assignment Status: Completed**
+## Submitted By
 
-**Course:** Software Engineering and Project Management 
-
-**Topic:** Software Design  
-**Assessment:** OBE-Based Question Paper
+**Name:** Monira Ater Mahin  
+**Student ID:** IT24017
